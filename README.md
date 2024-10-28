@@ -9,6 +9,8 @@
 
 A script is also available for calculating an approximation of pi using the number of collisions between 2 particles. (See [this video by 3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)).
 
+## Commands
+
 To compile the files:
 ```console
 foo@bar:~$ make clean
